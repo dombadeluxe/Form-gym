@@ -1,0 +1,116 @@
+
+
+                                                               /************* SIDE A *************/
+.title-info {
+    width: auto;
+    height: 220px; 
+}
+
+.logo {
+    width: 150px;
+    margin-top: 40px;
+}
+
+.title-club {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    font-size: 45px;
+    opacity: 0.9;
+    text-shadow:4px 3px  #373737;
+}
+
+.title-h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    font-size: 80px;
+    opacity: 0.8;
+    margin-top: 50px;
+}
+
+.title-end {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.color {
+    color: #c2185b;
+}
+
+.social {
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+                                                                  /************* SIDE B *************/
+.ex1:hover , .ex1:active {
+    background-color:#c2185b;
+    opacity: 0.8;
+}
+
+h1,p {
+    margin-left: 20px;
+} 
+
+h1,p,label {
+    padding: 2px;
+}
+
+.nav-footer {
+    background-color: #373737;
+    height: 30px;
+}
+
+.shape {
+    border: 1px solid #373737;
+    margin: auto;
+    max-width: 500px;
+    min-width: 150px;
+}
+
+.background {
+    background-image: url(images/layerone.jpg);
+    background-repeat: no-repeat;
+    background-size:100% auto;
+    background-size: cover;
+    
+}
+
+
+
+.head {
+    margin-top: 30px;
+    background-color: #c2185b;
+    opacity: 0.8;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 110px;
+    margin-bottom: 20px;
+    border: 1px solid #373737;
+}
+
+.booty {
+    background-color: ;
+    opacity: 0.8;
+    color: #fff;
+    max-width: 460px;
+    min-width: 150px;
+    margin: auto;
+}
+
+.body-bounce {
+    background-color: #c2185b;
+    color: #fff;
+    border: 1px solid #373737;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.submit {
+    background-color: #373737;
+    opacity: 0.5;
+    color: #fff;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    border:none;
+}
